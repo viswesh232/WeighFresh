@@ -7,3 +7,5 @@ For the low fedility wireframes:- https://www.figma.com/design/XKnhViO3xmXcKpOVi
 WeighFresh is a online grocery delivery app which mainly aims on the Freshness and Specific weight that costumer asked
 
 So i created a online user interface based on the problem.
+
+A small research on the people about how they feel on grocery delivery apps 
